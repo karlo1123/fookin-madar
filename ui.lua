@@ -348,7 +348,7 @@ do
             Max = 2, Current = 0
         }
         --
-        Library.Theme.Logo = Utility.AddImage("skyline/Assets/UI/Logo2.png", "https://i.imgur.com/xNIUMwn.png")
+        Library.Theme.Logo = Utility.AddImage("skyline/Assets/UI/Logo2.png", "https://i.imgur.com/1IkRKmv.png")
         --
         local WindowOutline = Utility.AddDrawing("Square", {
             Size = WindowSize,
